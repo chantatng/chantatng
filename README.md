@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chantatng
-- 👀 I’m interested in cognitive and neural development
+- 👀 I’m interested in cognitive and neural development in humans
 - 📫 How to reach me: chantatng@gmail.com
 
 <!---
